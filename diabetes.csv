@@ -1,0 +1,49 @@
+Date,Time,Blood_Sugar,Carbohydrates,Medicine_Type,Medicine_Dose,Exercise_Type,Exercise_Duration,Unusual_Event,Diabetic_Status
+01-01-2023,8:00 AM,120,45,Insulin,10,Running,30,None,Normal
+01-01-2023,1:00 PM,160,60,Metformin,500,Walking,45,Stressful day,Moderate
+02-01-2023,7:30 AM,110,30,Insulin,12,Yoga,60,None,Normal
+02-01-2023,12:30 PM,150,70,None,0,None,0,Feeling unwell,Needs Medical Assistance
+03-01-2023,8:15 AM,130,50,Insulin,8,Swimming,60,None,Normal
+03-01-2023,1:45 PM,140,40,Insulin,10,Cycling,45,None,Normal
+04-01-2023,7:45 AM,115,55,Metformin,500,Yoga,30,None,Normal
+04-01-2023,12:15 PM,155,65,Insulin,12,Walking,60,None,Normal
+05-01-2023,8:30 AM,125,35,Insulin,10,Running,45,None,Normal
+05-01-2023,1:30 PM,145,75,None,N/A,None,0,High stress,Moderate
+06-01-2023,8:00 AM,120,40,Insulin,8,Yoga,60,None,Normal
+06-01-2023,12:45 PM,160,60,Metformin,500,Walking,30,None,Moderate
+07-01-2023,7:15 AM,115,50,Insulin,10,Swimming,45,None,Normal
+07-01-2023,1:15 PM,135,70,Insulin,12,Cycling,60,None,Normal
+08-01-2023,8:45 AM,130,55,None,N/A,None,0,None,Normal
+08-01-2023,12:30 PM,150,45,Insulin,10,Yoga,45,None,Normal
+09-01-2023,8:30 AM,125,65,Insulin,8,Running,30,None,Normal
+09-01-2023,1:00 PM,140,35,Metformin,500,Walking,60,Stressful day,Normal
+10-01-2023,7:45 AM,120,70,Insulin,10,Swimming,45,None,Normal
+10-01-2023,12:15 PM,155,50,Insulin,12,Cycling,30,None,Normal
+11-01-2023,8:00 AM,115,40,Metformin,500,Running,60,None,Normal
+11-01-2023,1:30 PM,160,60,None,N/A,None,0,Sick,Moderate
+12-01-2023,7:30 AM,125,30,Insulin,8,Walking,45,None,Normal
+12-01-2023,12:45 PM,140,75,Insulin,10,Yoga,60,None,Normal
+13-01-2023,8:15 AM,130,55,Metformin,500,Swimming,30,None,Normal
+13-01-2023,1:45 PM,145,45,Insulin,12,Cycling,45,None,Normal
+14-01-2023,7:45 AM,120,65,Insulin,10,Running,60,None,Normal
+14-01-2023,12:30 PM,150,35,None,N/A,None,0,None,Normal
+15-01-2023,8:30 AM,115,50,Insulin,8,Yoga,45,None,Normal
+15-01-2023,1:00 PM,135,60,Metformin,500,Walking,30,None,Normal
+16-01-2023,7:15 AM,130,70,Insulin,12,Swimming,60,None,Normal
+16-01-2023,1:15 PM,140,40,Insulin,10,Cycling,45,None,Normal
+17-01-2023,8:45 AM,125,45,Insulin,8,Running,30,None,Normal
+17-01-2023,12:30 PM,155,55,None,N/A,None,0,None,Normal
+18-01-2023,8:00 AM,120,60,Metformin,500,Yoga,60,None,Normal
+18-01-2023,1:30 PM,150,30,Insulin,10,Walking,45,None,Normal
+19-01-2023,7:30 AM,115,40,Insulin,12,Swimming,30,None,Normal
+19-01-2023,12:45 PM,160,65,Insulin,8,Cycling,60,None,Normal
+20-01-2023,8:15 AM,130,50,Metformin,500,Running,45,None,Normal
+20-01-2023,1:45 PM,140,35,Insulin,10,Yoga,60,None,Normal
+21-01-2023,7:45 AM,120,75,None,N/A,None,0,Sick,Moderate
+21-01-2023,12:30 PM,150,55,Insulin,12,Walking,30,None,Normal
+22-01-2023,8:30 AM,115,45,Insulin,8,Swimming,45,None,Normal
+22-01-2023,1:00 PM,135,60,Metformin,500,Cycling,60,None,Normal
+23-01-2023,7:15 AM,130,40,Insulin,10,Running,30,None,Normal
+23-01-2023,1:15 PM,140,65,None,N/A,None,0,High stress,Moderate
+24-01-2023,8:45 AM,125,55,Insulin,12,Yoga,45,None,Normal
+24-01-2023,12:30 PM,150,30,Insulin,8,Walking,60,None,Normal
